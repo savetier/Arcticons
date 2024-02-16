@@ -1316,6 +1316,7 @@
 	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" drawable="camera"/>
 	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
 	<item component="ComponentInfo{com.android.camera3/com.android.camera.CameraLauncher}" drawable="camera"/>
+	<item component="ComponentInfo{com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastListActivity}" drawable="cell_broadcast"/>
 	<item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="phone"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForDialpad}" drawable="contacts"/>
@@ -7141,6 +7142,7 @@
 	<item component="ComponentInfo{com.rsupport.mobizen.lg/com.rsupport.mvagent.ui.activity.splash.SplashActivity}" drawable="mobizen"/>
 	<item component="ComponentInfo{com.rsupport.mobizen.sec/com.rsupport.mvagent.ui.activity.splash.SplashActivity}" drawable="mobizen"/>
 	<item component="ComponentInfo{com.rsupport.mvagent/com.rsupport.mvagent.ui.activity.splash.SplashActivity}" drawable="mobizen"/>
+	<item component="ComponentInfo{com.rsupport.rs.activity.lge.allinone/com.rsupport.rs.activity.edit.IntroActivity}" drawable="remotecall_service"/>
 	<item component="ComponentInfo{com.rsupport.rs.activity.rsupport.aas2/com.rsupport.rs.activity.edit.IntroActivity}" drawable="smart_tutor"/>
 	<item component="ComponentInfo{com.rtbishop.look4sat/com.rtbishop.look4sat.presentation.Look4SatActivity}" drawable="look4sat"/>
 	<item component="ComponentInfo{com.rtbishop.look4sat/com.rtbishop.look4sat.presentation.MainActivity}" drawable="look4sat"/>
