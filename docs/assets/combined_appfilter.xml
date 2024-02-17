@@ -4898,6 +4898,7 @@
 	<item component="ComponentInfo{com.jpl.jiomart/com.jpl.jiomart.dashboard.activities.SplashScreenActivityAlias1}" drawable="jiomart"/>
 	<item component="ComponentInfo{com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1}" drawable="jiomart"/>
 	<item component="ComponentInfo{com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashScreenActivityAlias1}" drawable="jiomart"/>
+	<item component="ComponentInfo{com.jpwolfso.privdnsqt/com.jpwolfso.privdnsqt.PrivateDnsConfigActivity}" drawable="private_dns_quick_tile_modes"/>
 	<item component="ComponentInfo{com.jr10cx10.spotifydownloader/com.jr10cx10.spotifydownloader.main.MainActivity}" drawable="spotiflyer"/>
 	<item component="ComponentInfo{com.jrdcom.android.gallery3d/com.android.jrdcamera.CameraLauncher}" drawable="camera"/>
 	<item component="ComponentInfo{com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="folder"/>
@@ -6539,6 +6540,7 @@
 	<item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud"/>
 	<item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud"/>
 	<item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.SplashActivity}" drawable="owncloud"/>
+	<item component="ComponentInfo{com.oyeah.alpha/com.oyeah.alpha.MainActivity}" drawable="alpha_study_squad"/>
 	<item component="ComponentInfo{com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity}" drawable="oyo"/>
 	<item component="ComponentInfo{com.padi.learning.dev/com.padi.learning.dev.MainActivity}" drawable="padi_training"/>
 	<item component="ComponentInfo{com.padi/com.padi.MainActivity}" drawable="padi_adventures"/>
@@ -10222,6 +10224,7 @@
 	<item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="next_player"/>
 	<item component="ComponentInfo{dev.atajan.lingva_android/dev.atajan.lingva_android.MainActivity}" drawable="translate"/>
 	<item component="ComponentInfo{dev.bartuzen.qbitcontroller/dev.bartuzen.qbitcontroller.ui.main.MainActivity}" drawable="qbittorrent_remote"/>
+	<item component="ComponentInfo{dev.beamlak.flixquest/dev.beamlak.flixquest.MainActivity}" drawable="flixquest"/>
 	<item component="ComponentInfo{dev.beefers.vendetta.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}" drawable="vendetta_manager"/>
 	<item component="ComponentInfo{dev.beefers.vendetta/com.discord.MainActivity}" drawable="discord_alt_2"/>
 	<item component="ComponentInfo{dev.beefers.vendetta/com.discord.app.AppActivity$Main}" drawable="discord_alt_2"/>
@@ -10901,6 +10904,7 @@
 	<item component="ComponentInfo{in.gov.uidai.mAadhaarPlus/in.gov.uidai.mAadhaarPlus.MainActivity}" drawable="maadhaar"/>
 	<item component="ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.kotlin.ui.splash.SplashActivity}" drawable="umang"/>
 	<item component="ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.ui.base.splash_screen.SplashActivity}" drawable="umang"/>
+	<item component="ComponentInfo{in.hridayan.ashell/in.hridayan.ashell.activities.StartActivity}" drawable="ashell_you"/>
 	<item component="ComponentInfo{in.hsbc.hsbcindia/com.hsbc.mobilebanking.splash.SplashActivity}" drawable="hsbc"/>
 	<item component="ComponentInfo{in.indwealth/com.indwealth.android.ui.splash.SplashActivity}" drawable="ind_money"/>
 	<item component="ComponentInfo{in.indwealth/splash.SplashActivity}" drawable="ind_money"/>
@@ -11055,6 +11059,7 @@
 	<item component="ComponentInfo{io.github.petlyh.jsdict/io.github.petlyh.jsdict.MainActivity}" drawable="js_dict"/>
 	<item component="ComponentInfo{io.github.quillpad/org.qosp.notes.ui.MainActivity}" drawable="quillpad"/>
 	<item component="ComponentInfo{io.github.randomfilemaker/io.github.randomfilemaker.MainActivity}" drawable="randomfilemaker"/>
+	<item component="ComponentInfo{io.github.ratul.topactivity/io.github.ratul.topactivity.ui.MainActivity}" drawable="current_activity"/>
 	<item component="ComponentInfo{io.github.robertaguilera712.cisojr4droid/io.github.robertaguilera712.cisojr4droid.activities.MainActivity}" drawable="cisojr4droid"/>
 	<item component="ComponentInfo{io.github.sanbeg.flashlight/io.github.sanbeg.flashlight.FlashLightActivity}" drawable="openflashlight"/>
 	<item component="ComponentInfo{io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity}" drawable="keymapper"/>
@@ -12168,6 +12173,7 @@
 	<item component="ComponentInfo{org.billthefarmer.tuner/org.billthefarmer.tuner.Tuner}" drawable="tuner"/>
 	<item component="ComponentInfo{org.birthdayadapter/org.birthdayadapter.ui.BaseActivity}" drawable="birthdayadapter"/>
 	<item component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" drawable="wlanscanner"/>
+	<item component="ComponentInfo{org.blinksd.board/org.blinksd.board.activities.SetupActivityV2}" drawable="fboard"/>
 	<item component="ComponentInfo{org.blitzortung.android.app/org.blitzortung.android.app.Main}" drawable="blitzortung_lightning_monitor"/>
 	<item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"/>
 	<item component="ComponentInfo{org.blokada.alarm.dnschanger/ui.MainActivity}" drawable="blokada"/>
