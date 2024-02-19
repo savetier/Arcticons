@@ -1060,6 +1060,8 @@
 	<item component="ComponentInfo{com.agc.gcam88/com.android.camera.CameraLauncher}" drawable="google_camera"/>
 	<item component="ComponentInfo{com.agc.gcam90/com.android.camera.CameraLauncher}" drawable="camera"/>
 	<item component="ComponentInfo{com.agc.gcam92/com.android.camera.CameraLauncher}" drawable="camera"/>
+	<item component="ComponentInfo{com.age.germany.appspot/com.ansca.corona.CoronaActivity}" drawable="germany_quiz_game"/>
+	<item component="ComponentInfo{com.age.wgg.appspot/com.age.wgg.appspot.Main}" drawable="welt_geographie"/>
 	<item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="_1password"/>
 	<item component="ComponentInfo{com.agni.dina.weather.ai/com.agni.dina.activities.MainActivity}" drawable="dina"/>
 	<item component="ComponentInfo{com.agnibho.android.solarcompass/com.agnibho.android.solarcompass.MainActivity}" drawable="solarcompass"/>
