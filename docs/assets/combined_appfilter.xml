@@ -10760,6 +10760,7 @@
 	<item component="ComponentInfo{ginlemon.iconpackstudio/ginlemon.iconpackstudio.editor.homeActivity.HomeActivity}" drawable="icon_pack_studio"/>
 	<item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer"/>
 	<item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="dsub"/>
+	<item component="ComponentInfo{github.psicodes.ktxpy/github.psicodes.ktxpy.activities.HomeActivity}" drawable="codeassist"/>
 	<item component="ComponentInfo{github.tornaco.android.thanos/github.tornaco.android.thanos.main.NavActivity}" drawable="security"/>
 	<item component="ComponentInfo{github.tornaco.android.thanos/now.fortuitous.thanos.main.NavActivity}" drawable="security"/>
 	<item component="ComponentInfo{github.yaa110.memento/github.yaa110.memento.activity.MainActivity}" drawable="memento"/>
