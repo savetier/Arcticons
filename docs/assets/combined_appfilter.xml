@@ -10809,6 +10809,7 @@
 	<item component="ComponentInfo{hdesign.theclock/hdesign.theclock.MainActivity}" drawable="clock"/>
 	<item component="ComponentInfo{hdmaxx.uhdsx/hdmaxx.uhdsx.Main3Activity}" drawable="number_9"/>
 	<item component="ComponentInfo{helectronsoft.com.live.wallpaper.pixel4d/helectronsoft.com.live.wallpaper.pixel4d.Splash}" drawable="wallpapers"/>
+	<item component="ComponentInfo{helium314.keyboard/helium314.keyboard.latin.setup.SetupActivity}" drawable="openboard"/>
 	<item component="ComponentInfo{helsi.me/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="helsi"/>
 	<item component="ComponentInfo{hemengetir.client.tr/com.sebbia.delivery.client.ui.splash.SplashActivityDefault}" drawable="banabikurye"/>
 	<item component="ComponentInfo{hemengetir.client.tr/com.sebbia.delivery.client.ui.splash.SplashActivityNewYear}" drawable="banabikurye"/>
