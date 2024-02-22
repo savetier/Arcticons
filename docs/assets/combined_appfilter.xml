@@ -1600,6 +1600,7 @@
 	<item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.MainActivity}" drawable="pano_scrobble"/>
 	<item component="ComponentInfo{com.arna.translate/com.arna.translate.MainActivity}" drawable="translate"/>
 	<item component="ComponentInfo{com.arrow.wallpapers.reels/com.arrow.wallpapers.reels.activities.MainActivity}" drawable="wallpapers"/>
+	<item component="ComponentInfo{com.arrow.wallpapers.wallipop/com.arrow.wallpapers.wallipop.activity.SplashScreen}" drawable="wallipop"/>
 	<item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="how_to_tie_a_tie"/>
 	<item component="ComponentInfo{com.artem.scotepio/com.loklok.flash.android.MainActivity}" drawable="loklok"/>
 	<item component="ComponentInfo{com.arthur.hritik.proton.video.compressor/com.arthur.hritik.video.compressor.ui.activities.EntryActivity}" drawable="protonvideocompressor"/>
@@ -4867,8 +4868,10 @@
 	<item component="ComponentInfo{com.joachimneumann.bisq/com.joachimneumann.bisq.ActivityWelcome}" drawable="bisq"/>
 	<item component="ComponentInfo{com.joaomgcd.autoappshub/com.joaomgcd.autoappshub.activity.ActivityMain}" drawable="autoapps"/>
 	<item component="ComponentInfo{com.joaomgcd.autoinput/com.joaomgcd.autoapps.ActivityLaunchApp}" drawable="autoinput"/>
+	<item component="ComponentInfo{com.joaomgcd.autonotification/com.joaomgcd.autoapps.ActivityLaunchApp}" drawable="autonotification"/>
 	<item component="ComponentInfo{com.joaomgcd.autoshare/com.joaomgcd.autoapps.ActivityLaunchApp}" drawable="autoshare"/>
 	<item component="ComponentInfo{com.joaomgcd.autotools/com.joaomgcd.autoapps.ActivityLaunchApp}" drawable="autotools"/>
+	<item component="ComponentInfo{com.joaomgcd.autowear/com.joaomgcd.autoapps.ActivityLaunchApp}" drawable="autowear"/>
 	<item component="ComponentInfo{com.joaomgcd.join/com.joaomgcd.join.activity.ActivityMain}" drawable="join"/>
 	<item component="ComponentInfo{com.jobrapp.jobr/com.jobrapp.jobr.presentation.ui.activity.SplashScreenActivity}" drawable="letter_uppercase_square_m"/>
 	<item component="ComponentInfo{com.jobstreet.jobstreet/com.seekasiamobileapp.MainActivity}" drawable="jobstreet"/>
@@ -8756,6 +8759,7 @@
 	<item component="ComponentInfo{com.tmob.AveaOIM/com.avea.oim.newlogin.splash.SplashActivity}" drawable="turk_telekom"/>
 	<item component="ComponentInfo{com.tmob.AveaOIM/moim.android.init.SplashActivity}" drawable="turk_telekom"/>
 	<item component="ComponentInfo{com.tmob.teknosa/com.tmob.teknosa.MainActivity}" drawable="teknosa"/>
+	<item component="ComponentInfo{com.tmobile.homeisp/com.tmobile.homeisp.mappshell.MainActivity}" drawable="tmobile_internet"/>
 	<item component="ComponentInfo{com.tmobile.m1/com.metro.minus1.ui.main.MainActivity}" drawable="t_mobile_play"/>
 	<item component="ComponentInfo{com.tmobile.m1/com.sliide.content.MainActivity}" drawable="t_mobile_play"/>
 	<item component="ComponentInfo{com.tmobile.pr.mytmobile/com.tmobile.pr.mytmobile.MyTMobileActivity}" drawable="t_mobile"/>
