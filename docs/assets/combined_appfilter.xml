@@ -6341,6 +6341,8 @@
 	<item component="ComponentInfo{com.oasisfeng.island.fdroid/com.oasisfeng.island.MainActivity}" drawable="insular"/>
 	<item component="ComponentInfo{com.oasisfeng.island.fdroid/com.oasisfeng.island.settings.IslandSettingsActivity}" drawable="insular"/>
 	<item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.MainActivity}" drawable="island"/>
+	<item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.settings.IslandSettingsActivity}" drawable="island"/>
+	<item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.settings.SettingsActivity}" drawable="island"/>
 	<item component="ComponentInfo{com.obedience/com.obedience.DefaultAlias}" drawable="obedience"/>
 	<item component="ComponentInfo{com.obedience/com.obedience.settings.DefaultAlias}" drawable="obedience"/>
 	<item component="ComponentInfo{com.obilet.androidside/com.obilet.androidside.presentation.screen.splash.activity.SplashScreen}" drawable="obilet"/>
