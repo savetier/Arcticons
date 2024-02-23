@@ -6526,6 +6526,7 @@
 	<item component="ComponentInfo{com.osborntech.supercycle/com.osborntech.supercycle.MainActivity}" drawable="super_cycle"/>
 	<item component="ComponentInfo{com.osfans.trime/com.osfans.trime.PrefLauncherAlias}" drawable="trime"/>
 	<item component="ComponentInfo{com.osfans.trime/com.osfans.trime.Pref}" drawable="trime"/>
+	<item component="ComponentInfo{com.osheden.distraction.free.icon.pack/com.osheden.distraction.free.icon.pack.activities.MainActivity}" drawable="distraction_free_icon_pack"/>
 	<item component="ComponentInfo{com.osheden.distraction.free.icon.pack/com.osheden.distraction.free.icon.pack.activities.SplashActivity}" drawable="distraction_free_icon_pack"/>
 	<item component="ComponentInfo{com.osnvff.udege/com.osnvff.udege.SplashActivity}" drawable="udeapp"/>
 	<item component="ComponentInfo{com.osnvff.udege/com.osnvff.udege.ui.splash.SplashActivity}" drawable="udeapp"/>
