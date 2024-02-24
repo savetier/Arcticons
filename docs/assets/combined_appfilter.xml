@@ -8452,6 +8452,7 @@
 	<item component="ComponentInfo{com.supercell.clashroyale/com.supercell.titan.GameApp}" drawable="clashroyale"/>
 	<item component="ComponentInfo{com.supercell.everdale/com.supercell.valleysandvillages.GameApp}" drawable="letter_uppercase_square_e"/>
 	<item component="ComponentInfo{com.supercell.hayday/com.supercell.hayday.GameApp}" drawable="hay_day"/>
+	<item component="ComponentInfo{com.superelement.pomodoro/com.superelement.project.LauncherActivity}" drawable="focus_to_do"/>
 	<item component="ComponentInfo{com.supermemo/com.supermemo.uiContainer.ui.splash.SplashActivity}" drawable="supermemo"/>
 	<item component="ComponentInfo{com.superproductivity.superproductivity/com.superproductivity.superproductivity.FullscreenActivity}" drawable="supprod"/>
 	<item component="ComponentInfo{com.supersmart.android.metro.turkey/crc646ec69c69b36c10e4.SplashScreenView}" drawable="metro_fast"/>
@@ -12307,6 +12308,7 @@
 	<item component="ComponentInfo{org.eu.droid_ng.jellyfish/acr.browser.lightning.SplashActivity}" drawable="browser"/>
 	<item component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}" drawable="exodusprivacy"/>
 	<item component="ComponentInfo{org.eurail.railplanner/nl.elastique.eurail.ui.startup.StartupActivity}" drawable="rail_planner"/>
+	<item component="ComponentInfo{org.evolutionx.papers/org.evolutionx.papers.MainActivity}" drawable="papers"/>
 	<item component="ComponentInfo{org.exarhteam.iitc_mobile/org.exarhteam.iitc_mobile.IITC_Mobile}" drawable="iitcmobile"/>
 	<item component="ComponentInfo{org.exobel.routerkeygen/org.exobel.routerkeygen.ui.NetworksListActivity}" drawable="router_keygen"/>
 	<item component="ComponentInfo{org.f26_studio.Techmino/org.love2d.android.GameActivity}" drawable="techmino"/>
